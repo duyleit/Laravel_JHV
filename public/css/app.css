@@ -1,0 +1,86 @@
+.jhv-top1{
+    background: #eee;
+}
+
+.jhv-top1 a{
+    margin:0px;
+    padding: 2px 7px 2px 4px;
+    color: #666;
+    border-right: #ddd 1px solid;
+}
+
+.jhv-top1 a:hover{
+    color:#0000F0;
+    text-decoration: none;
+    background:#fafafa;
+}
+
+.jhv-top2{
+    padding: 0px;
+}
+
+.jhv-top2 .navbar{
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    background-color: #f8f9fa !important;
+    border: none;
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+
+.navbar-brand{
+    padding-top: 8px;
+}
+
+.btn-app a
+{
+    width: 100%;
+    padding: 35px;
+    font-size: 24px;
+}
+.btn-app a:hover {
+    color: #fff;
+    background: #337ab7;
+}
+
+.page-header{
+    margin:15px;
+}
+
+.main-layout-btn
+{
+   margin-bottom: 30px;
+}
+
+footer{
+    margin-top: 60px;
+}
+
+.jhv-top3
+{
+    padding: 0px !important;
+}
+
+.jhv-bodytop3
+{
+    min-height: 100px;
+}
+
+.jhv-bodytop3 h1
+{
+    color: #fff;
+    padding-top: 15px;
+}
+
+.procbar{
+    margin-top: 10px;
+}
+
+.lgn
+{
+    margin-left: 70px;
+
+}
+
+/*.top_bott {*/
+    /*margin: 10px;*/
+/*}*/
